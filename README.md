@@ -1,7 +1,7 @@
 # 📝 Informe de Práctica: Gestión de Contenedores Docker
 
 ---
-(improtante solo hay uso de ia para la decoracion del marckdown, prompt: "Pon el marckdown bonito")
+(improtante solo hay uso de ia para la decoracion del markdown, prompt: "Pon el markdown bonito")
 ### **1. Descarga la imagen de Alpine sin arrancarla y comprueba que la tienes. Fija la versión: no uses `latest`. Escoge una versión de las disponibles en Docker Hub.**
   
 Para la descarga de Alpine hay que usar el siguiente comando **`docker pull alpine:`** junto con la versión que en mi caso es: **`3.22`**
